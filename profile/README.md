@@ -13,6 +13,7 @@ Get in touch: [walkflow.tech](https://walkflow.tech) · [LinkedIn](https://linke
 ### [AI Lead Generation System](https://github.com/walkflow-portfolio/ai-lead-generation-system)
 Finds businesses that need your service, scores every one Hot, Warm or Cold, automates outreach and sends follow-up reminders, all from one dashboard.
 `n8n` · `Supabase` · `Telegram` · `Next.js` · `TypeScript`
+**[Live demo (private)](https://gigly.walkflow.tech/)**: access is by one-time password. To view it, ask me for access via [walkflow.tech](https://walkflow.tech) or [LinkedIn](https://linkedin.com/in/walkflow).
 
 ### [Business Automation Suite](https://github.com/walkflow-portfolio/business-automation-suite)
 Captures website enquiries, follows up automatically, prevents double-bookings and alerts you when something fails. Includes a version built for a real-estate agency.
